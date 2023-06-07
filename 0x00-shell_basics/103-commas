@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -m -A sort -V echo
+ls -la -F -m 
