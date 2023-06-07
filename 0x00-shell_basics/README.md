@@ -11,4 +11,5 @@
 10.Back to previous directory
 11.Listing from multiple directories
 12.Tell what type of file it is
+13.Symbolic link
 
