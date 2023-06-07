@@ -6,4 +6,5 @@
 5.List files in digits only
 6.Creates a directory in the tmp directory
 7.Move file to tmp/my first directory
+8.Deleting my first file
 
