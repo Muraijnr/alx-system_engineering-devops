@@ -16,4 +16,4 @@
 15.Moving filesstarting with and uppercase
 16.Deletes all files ending with ~
 17.Creates thee parent directory
-
+18.Sorting files 
