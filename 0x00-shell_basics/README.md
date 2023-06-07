@@ -8,4 +8,7 @@
 7.Move file to tmp/my first directory
 8.Deleting my first file
 9.Deleting my first directory
+10.Back to previous directory
+11.Listing from multiple directories
+12.Tell what type of file it is
 
