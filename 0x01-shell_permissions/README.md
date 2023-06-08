@@ -6,4 +6,5 @@
 5.Adds execute rights to owner of the file hello
 6.Adding multiple permissions
 7.Execute rights to everybody
+8.Adding different permissions
 
