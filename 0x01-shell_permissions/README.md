@@ -12,4 +12,5 @@
 11.Changing permissions of sub-directories
 12.Creating a directory with permissions
 13.Change group
+14.Change owner and group
 
