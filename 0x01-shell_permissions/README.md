@@ -2,4 +2,5 @@
 1.Printing current username
 2.Printing groups user is in
 3.Changes ownership of Hello to user betty
+4.Creates an empty file hello
 
