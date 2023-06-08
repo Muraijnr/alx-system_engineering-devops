@@ -7,4 +7,9 @@
 6.Adding multiple permissions
 7.Execute rights to everybody
 8.Adding different permissions
+9.Changes mode to the one specified
+10.Mirrors modes of fileB to fileA
+11.Changing permissions of sub-directories
+12.Creating a directory with permissions
+13.Change group
 
