@@ -9,4 +9,11 @@
 8.Adds given variables
 9.divides given variables
 10.Powers given variables
-11.
+11.converts from binary to decimal
+12.prints out a combination of letters with exception of "oo"
+13.prints a number with 2 decimal places
+14.converts a number to base 16
+15.encodes and decodes text using rot13 encryption
+16.prints every other line
+17.adds and prints answer in base bestchol
+
